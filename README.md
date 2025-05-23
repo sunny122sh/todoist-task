@@ -25,7 +25,7 @@ This project contains Selenium-based automated tests for few of the Todoist appl
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/sunny122sh/todoist-task
+   git clone https://github.com/sunny122sh/todoist-task/tree/master
    cd <repository-folder>
    ```
 
@@ -50,6 +50,11 @@ This project contains Selenium-based automated tests for few of the Todoist appl
 
 - Open the project in IDE.
 - Right click on testng.xml > Run
+
+## Checking Reports
+
+- Respective reports LoginTestReports.html and AddTaskTestReports.html will be generated on run completion.
+- Open the files in any browser to view reports.
 
 ## Test Details
 
