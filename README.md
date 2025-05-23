@@ -5,8 +5,8 @@ This project contains Selenium-based automated tests for few of the Todoist appl
 ## Project Structure
 
 - **src/main/resources/chromedriver-win64/chromedriver.exe**: Contains the ChromeDriver binary used for browser automation.
-- **src/test/java/pages/**: Contains POM (Page Object Model) classes representing different pages of the application and encapsulating page actions.
-- **src/test/java/tests/**: Contains TestNG test classes that execute the automated tests.
+- **src/main/java/pages/**: Contains POM (Page Object Model) classes representing different pages of the application and encapsulating page actions.
+- **src/test/java/**: Contains TestNG test classes that execute the automated tests.
 - **pom.xml**: Maven configuration file managing dependencies and build process.
 - **src/test/Resources/testng.xml**: Configuration file to define TestNG test suites and test classes to execute.
 - **README.md**: Documentation and usage instructions for the project.
