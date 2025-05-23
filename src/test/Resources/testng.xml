@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Todoist Test Suite" verbose="1">
+    <test name="Todoist Tests">
+        <classes>
+            <class name="LoginTests"/>
+            <class name="AddTaskTests"/>
+            <!-- Add more test classes here if needed -->
+        </classes>
+    </test>
+</suite>
